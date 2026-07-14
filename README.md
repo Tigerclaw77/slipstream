@@ -49,6 +49,8 @@ The Stripe success URL includes `{CHECKOUT_SESSION_ID}`. `/confirmation` calls t
 
 ## Production deployment
 
+Canonical source repository: `https://github.com/Tigerclaw77/slipstream` (`main` branch).
+
 This is a long-running Node application, not a serverless-only deployment. Deploy it to a Node host with a persistent volume mounted for `data/`.
 
 ```text

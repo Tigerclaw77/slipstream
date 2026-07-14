@@ -106,7 +106,7 @@ app.get("/api/health", async (request, response) => {
   const ok = checks.database && checks.storage && productionServicesReady && connectivityReady;
   response.status(ok ? 200 : 503).json({
     ok,
-    service: "slipstream-seo",
+    service: "slipstream",
     time: new Date().toISOString(),
     checks,
     connectivity,
