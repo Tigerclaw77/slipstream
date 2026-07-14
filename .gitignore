@@ -1,0 +1,8 @@
+node_modules/
+dist/
+server-dist/
+.env
+/data/
+/output/
+/tmp/
+*.log

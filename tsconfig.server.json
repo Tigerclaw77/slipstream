@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022", "DOM"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "rootDir": ".",
+    "outDir": "server-dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "noEmit": false
+  },
+  "include": [
+    "server/**/*.ts",
+    "src/productTypes.ts",
+    "src/types.ts",
+    "src/lib/intakeValidation.ts",
+    "src/lib/territory.ts",
+    "src/data/seedData.ts"
+  ]
+}

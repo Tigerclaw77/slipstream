@@ -1,0 +1,2219 @@
+{
+  "metadata": {
+    "module": "sales-intelligence",
+    "lastUpdated": "2026-06-25",
+    "agencyCount": 50,
+    "sourcePages": [
+      {
+        "name": "Clutch - Top SEO Companies & Services",
+        "url": "https://clutch.co/seo-firms",
+        "snippet": "curated list of top SEO firms"
+      },
+      {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "snippet": "SEO agencies rankings updated"
+      },
+      {
+        "name": "DesignRush - Top Local SEO Companies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+        "snippet": "boost visibility in local search results"
+      },
+      {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "snippet": "The Best SEO Companies"
+      }
+    ]
+  },
+  "agencies": [
+    {
+      "id": "searchbloom",
+      "name": "Searchbloom",
+      "website": "https://www.searchbloom.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top Local SEO Companies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+        "rank": "listed",
+        "snippet": "Top Rated SEO Agency"
+      },
+      "headlinePositioning": "Top rated SEO agency with local SEO expertise and recognizable client proof.",
+      "topSellingPoints": ["rankings", "Google Maps/local pack", "reporting/transparency", "reputation/reviews"],
+      "proofUsed": ["reviews", "awards", "client logos"],
+      "targetCustomerType": "Local businesses and multi-location brands",
+      "localSeoEmphasis": "high",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "Searchbloom positions around third-party recognition and rankings.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "Top Rated SEO Agency"
+        },
+        {
+          "field": "local SEO emphasis",
+          "category": "Google Maps/local pack",
+          "claim": "DesignRush describes Searchbloom as a fit for local and multi-location businesses.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "local businesses and multi-location brands"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "DesignRush shows review proof for Searchbloom.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "5.0 (50)"
+        }
+      ]
+    },
+    {
+      "id": "smartsites",
+      "name": "SmartSites",
+      "website": "https://www.smartsites.com",
+      "sourceRankingPage": {
+        "name": "Clutch - Top SEO Companies & Services",
+        "url": "https://clutch.co/seo-firms",
+        "rank": "listed",
+        "snippet": "website traffic and conversions"
+      },
+      "headlinePositioning": "Large full-service SEO and paid media agency emphasizing traffic and conversion outcomes.",
+      "topSellingPoints": ["leads/revenue", "rankings", "conversion optimization", "reputation/reviews"],
+      "proofUsed": ["reviews", "metrics"],
+      "targetCustomerType": "Small to mid-market companies that want broad digital marketing execution",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "leads/revenue",
+          "claim": "Clutch highlights SmartSites outcomes around traffic and conversions.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "improved website traffic and conversions"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "Clutch displays a large review base for SmartSites.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "358 reviews"
+        }
+      ]
+    },
+    {
+      "id": "lounge-lizard",
+      "name": "Lounge Lizard",
+      "website": "https://www.loungelizard.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Search Engine Optimization and Web Design"
+      },
+      "headlinePositioning": "Brand and web agency pairing SEO with design-led digital presence work.",
+      "topSellingPoints": ["technical SEO", "content authority", "conversion optimization", "industry specialization"],
+      "proofUsed": ["client logos", "reviews"],
+      "targetCustomerType": "Brands that want SEO with web design and digital experience support",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "DesignRush lists Lounge Lizard around SEO and web design services.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Search Engine Optimization and Web Design"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "DesignRush surfaces brand-name clients for Lounge Lizard.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Canon, Disney, Nikon"
+        }
+      ]
+    },
+    {
+      "id": "highervisibility",
+      "name": "HigherVisibility",
+      "website": "https://www.highervisibility.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Agency of the Year"
+      },
+      "headlinePositioning": "Award-led SEO agency positioning around visibility, AI search, and ranking outcomes.",
+      "topSellingPoints": ["rankings", "AI search/GEO/AEO", "industry specialization", "reputation/reviews"],
+      "proofUsed": ["awards", "reviews"],
+      "targetCustomerType": "Companies seeking recognized SEO leadership and broad service depth",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "high",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "DesignRush shows HigherVisibility using award positioning.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "5X Agency of the Year"
+        },
+        {
+          "field": "AI/GEO/AEO emphasis",
+          "category": "AI search/GEO/AEO",
+          "claim": "DesignRush describes HigherVisibility as supporting AI search visibility.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "answer engine optimization"
+        }
+      ]
+    },
+    {
+      "id": "funnel-boost-media",
+      "name": "Funnel Boost Media",
+      "website": "https://www.funnelboostmedia.net",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top Local SEO Companies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+        "rank": "listed",
+        "snippet": "Design. Rank. Grow"
+      },
+      "headlinePositioning": "Local and small-business SEO agency combining rankings, local reviews, and newer GEO language.",
+      "topSellingPoints": ["Google Maps/local pack", "rankings", "AI search/GEO/AEO", "reputation/reviews"],
+      "proofUsed": ["reviews", "case studies"],
+      "targetCustomerType": "Home services, law firms, healthcare, and local service businesses",
+      "localSeoEmphasis": "high",
+      "aiGeoAeoEmphasis": "high",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 4,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "DesignRush shows Funnel Boost Media using rank-and-growth positioning.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "Design. Rank. Grow"
+        },
+        {
+          "field": "local SEO emphasis",
+          "category": "Google Maps/local pack",
+          "claim": "DesignRush review snippets reference Google Business Profile review-building support.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "gain more reviews on our GMB"
+        },
+        {
+          "field": "AI/GEO/AEO emphasis",
+          "category": "AI search/GEO/AEO",
+          "claim": "DesignRush says the agency combines traditional SEO with GEO services.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "Generative Engine Optimization services"
+        }
+      ]
+    },
+    {
+      "id": "seotonic",
+      "name": "SeoTonic",
+      "website": "https://www.seotonic.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Rank Higher, Grow Faster"
+      },
+      "headlinePositioning": "Campaign-volume SEO agency emphasizing faster rankings, visibility, and sales growth.",
+      "topSellingPoints": ["rankings", "leads/revenue", "content authority", "reputation/reviews"],
+      "proofUsed": ["metrics", "reviews", "client logos"],
+      "targetCustomerType": "Broad SMB and international clients across many industries",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "DesignRush shows SeoTonic positioning around ranking and growth speed.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Rank Higher, Grow Faster"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "DesignRush describes scale across campaigns and industries.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "3,000 SEO campaigns"
+        }
+      ]
+    },
+    {
+      "id": "forefront-web",
+      "name": "ForeFront Web",
+      "website": "https://forefrontweb.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Google Premier Partner"
+      },
+      "headlinePositioning": "Conversion-focused digital marketing agency with SEO folded into journey-based success plans.",
+      "topSellingPoints": ["conversion optimization", "technical SEO", "reporting/transparency", "industry specialization"],
+      "proofUsed": ["awards", "client logos", "reviews"],
+      "targetCustomerType": "Organizations that want SEO, web, and conversion planning in one program",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "conversion optimization",
+          "claim": "DesignRush describes ForeFront Web's journey-based success plans.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "awareness, consideration, and conversion"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "DesignRush lists recognizable Ohio and healthcare-adjacent clients.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Honda of America"
+        }
+      ]
+    },
+    {
+      "id": "olifant-digital",
+      "name": "Olifant Digital",
+      "website": "https://olifantdigital.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Full-Service Amazon Agency"
+      },
+      "headlinePositioning": "Amazon SEO agency focused on marketplace audits, benchmarks, and listing improvements.",
+      "topSellingPoints": ["technical SEO", "rankings", "conversion optimization", "industry specialization"],
+      "proofUsed": ["client logos", "case studies"],
+      "targetCustomerType": "Ecommerce and Amazon sellers",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 3,
+        "proof_score": 3,
+        "OD_buyer_appeal": 1,
+        "Slipstream_fit": 2,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "industry specialization",
+          "claim": "DesignRush positions Olifant Digital as an Amazon-focused SEO agency.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Full-Service Amazon Agency"
+        },
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "DesignRush describes audits and competitor benchmarking in Olifant's SEO model.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "full account audits"
+        }
+      ]
+    },
+    {
+      "id": "silverback-strategies",
+      "name": "Silverback Strategies",
+      "website": "https://www.silverbackstrategies.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top Local SEO Companies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+        "rank": "listed",
+        "snippet": "share of voice"
+      },
+      "headlinePositioning": "Measurement-led SEO agency that frames visibility beyond rankings.",
+      "topSellingPoints": ["reporting/transparency", "conversion optimization", "rankings", "technical SEO"],
+      "proofUsed": ["client logos", "reviews"],
+      "targetCustomerType": "Marketing teams that want measurable performance systems",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "reporting/transparency",
+          "claim": "DesignRush says Silverback measures SEO with share of voice and site health indicators.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "share of voice, SERP coverage"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "DesignRush lists client examples for Silverback Strategies.",
+          "sourceName": "DesignRush - Top Local SEO Companies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization/local-seo",
+          "sourceSnippet": "Mattress Warehouse"
+        }
+      ]
+    },
+    {
+      "id": "digitlhaus-agency",
+      "name": "DigitlHaus Agency",
+      "website": "https://www.digitlhaus.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "site speed and accessibility"
+      },
+      "headlinePositioning": "Ecommerce SEO and UX agency connecting site performance with conversion outcomes.",
+      "topSellingPoints": ["technical SEO", "conversion optimization", "content authority", "reporting/transparency"],
+      "proofUsed": ["case studies", "client logos"],
+      "targetCustomerType": "Ecommerce brands and Shopify-style retailers",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 2,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "DesignRush describes DigitlHaus as tying SEO to speed, accessibility, and UX quality.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "site speed and accessibility"
+        },
+        {
+          "field": "top selling points",
+          "category": "conversion optimization",
+          "claim": "DesignRush frames DigitlHaus work as continuing after launch through optimization.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "conversion readiness"
+        }
+      ]
+    },
+    {
+      "id": "ioi-solutions",
+      "name": "IOI Solutions",
+      "website": "https://www.ioisolutions.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "automotive SEO"
+      },
+      "headlinePositioning": "Industry-specialized agency using SEO to connect local intent with lead capture.",
+      "topSellingPoints": ["industry specialization", "Google Maps/local pack", "leads/revenue", "reporting/transparency"],
+      "proofUsed": ["case studies", "client logos"],
+      "targetCustomerType": "Automotive and local service businesses",
+      "localSeoEmphasis": "high",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "target customer type",
+          "category": "industry specialization",
+          "claim": "DesignRush shows automotive SEO positioning for IOI Solutions.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Automotive SEO"
+        },
+        {
+          "field": "top selling points",
+          "category": "Google Maps/local pack",
+          "claim": "DesignRush describes IOI connecting location, urgency, and local search intent.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "local search intent"
+        }
+      ]
+    },
+    {
+      "id": "intero-digital",
+      "name": "Intero Digital",
+      "website": "https://www.interodigital.com",
+      "sourceRankingPage": {
+        "name": "Clutch - Top SEO Companies & Services",
+        "url": "https://clutch.co/seo-firms",
+        "rank": "listed",
+        "snippet": "70% Search Engine Optimization"
+      },
+      "headlinePositioning": "Large SEO agency emphasizing search visibility, project management, and performance gains.",
+      "topSellingPoints": ["rankings", "leads/revenue", "reporting/transparency", "content authority"],
+      "proofUsed": ["reviews", "metrics", "case studies"],
+      "targetCustomerType": "Mid-market and enterprise companies needing full-service search execution",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "rankings",
+          "claim": "Clutch describes Intero Digital as focused on SEO and digital visibility.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "digital visibility enhancement"
+        },
+        {
+          "field": "proof used",
+          "category": "leads/revenue",
+          "claim": "Clutch cites a recent quote-request lift in Intero feedback.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "20.6% increase in quote requests"
+        }
+      ]
+    },
+    {
+      "id": "boostability",
+      "name": "Boostability",
+      "website": "https://www.boostability.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Cost-Effective, Scalable SEO"
+      },
+      "headlinePositioning": "Affordable scalable SEO agency for small businesses and agency partners.",
+      "topSellingPoints": ["rankings", "backlinks", "content authority", "reporting/transparency"],
+      "proofUsed": ["reviews", "metrics"],
+      "targetCustomerType": "Small businesses and reseller/partner channels",
+      "localSeoEmphasis": "high",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 2
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "DesignRush shows Boostability positioning around cost-effective scalable SEO.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Cost-Effective, Scalable SEO"
+        },
+        {
+          "field": "proof used",
+          "category": "leads/revenue",
+          "claim": "A DesignRush review snippet reports traffic growth after working with Boostability.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "traffic went from around 300 to 2400"
+        }
+      ]
+    },
+    {
+      "id": "digital-silk",
+      "name": "Digital Silk",
+      "website": "https://www.digitalsilk.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Growing Brands Online"
+      },
+      "headlinePositioning": "Brand-growth agency combining SEO, content, technical fixes, design, and authority building.",
+      "topSellingPoints": ["content authority", "technical SEO", "backlinks", "conversion optimization"],
+      "proofUsed": ["client logos", "awards", "reviews"],
+      "targetCustomerType": "Established brands and funded companies seeking broader digital transformation",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 5,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "content authority",
+          "claim": "DesignRush says Digital Silk integrates content, technical fixes, and authority building.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "content, technical fixes, and authority-building"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "DesignRush lists major brand clients for Digital Silk.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Sony, Microsoft, P&G"
+        }
+      ]
+    },
+    {
+      "id": "sube-agencia-digital",
+      "name": "Sube Agencia Digital",
+      "website": "https://www.subeagenciadigital.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Reputation Management"
+      },
+      "headlinePositioning": "Digital agency blending SEO, content, paid media, and reputation management.",
+      "topSellingPoints": ["content authority", "reputation/reviews", "reporting/transparency", "leads/revenue"],
+      "proofUsed": ["client logos", "case studies"],
+      "targetCustomerType": "Spanish-language and Latin American brands needing integrated digital marketing",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 3,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "reputation/reviews",
+          "claim": "DesignRush lists reputation management among Sube's services.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Reputation Management"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "DesignRush lists several client examples for Sube.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Bimbo, Visit The USA"
+        }
+      ]
+    },
+    {
+      "id": "disruptive-advertising",
+      "name": "Disruptive Advertising",
+      "website": "https://disruptiveadvertising.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "revenue jump"
+      },
+      "headlinePositioning": "Performance agency tying search work to revenue and wasted-spend reduction.",
+      "topSellingPoints": ["leads/revenue", "conversion optimization", "reporting/transparency", "technical SEO"],
+      "proofUsed": ["metrics", "client logos", "case studies"],
+      "targetCustomerType": "Growth-minded companies with paid and organic acquisition budgets",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "leads/revenue",
+          "claim": "DesignRush includes a revenue outcome in Disruptive Advertising proof.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "revenue jump"
+        },
+        {
+          "field": "headline positioning",
+          "category": "reporting/transparency",
+          "claim": "DesignRush describes Disruptive as reducing wasted marketing effort.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "eliminating wasted spend"
+        }
+      ]
+    },
+    {
+      "id": "rock-salt-marketing",
+      "name": "Rock Salt Marketing Cooperative",
+      "website": "https://www.rocksaltmarketing.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "local optimization"
+      },
+      "headlinePositioning": "Local SEO and web agency focused on ranking, reports, and business outcomes for service companies.",
+      "topSellingPoints": ["Google Maps/local pack", "rankings", "reporting/transparency", "leads/revenue"],
+      "proofUsed": ["reviews", "case studies"],
+      "targetCustomerType": "Local service businesses",
+      "localSeoEmphasis": "high",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 3,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "local SEO emphasis",
+          "category": "Google Maps/local pack",
+          "claim": "DesignRush describes Rock Salt's local optimization services.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "local optimization services"
+        },
+        {
+          "field": "top selling points",
+          "category": "reporting/transparency",
+          "claim": "DesignRush says Rock Salt uses rankings, reports, and reviews as visible evidence.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "rankings, reports, and reviews"
+        }
+      ]
+    },
+    {
+      "id": "fuel-online",
+      "name": "Fuel Online",
+      "website": "https://fuelonline.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "AI Strategy"
+      },
+      "headlinePositioning": "Enterprise SEO agency adding AI strategy and algorithm research to organic growth claims.",
+      "topSellingPoints": ["AI search/GEO/AEO", "technical SEO", "leads/revenue", "rankings"],
+      "proofUsed": ["metrics", "reviews"],
+      "targetCustomerType": "Established companies seeking advanced search strategy",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "high",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "AI/GEO/AEO emphasis",
+          "category": "AI search/GEO/AEO",
+          "claim": "DesignRush lists AI strategy among Fuel Online services.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "AI Strategy"
+        },
+        {
+          "field": "proof used",
+          "category": "leads/revenue",
+          "claim": "A DesignRush review snippet reports traffic growth from Fuel Online work.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "organic has increased approx 250%"
+        }
+      ]
+    },
+    {
+      "id": "effiqs",
+      "name": "Effiqs",
+      "website": "https://www.effiqs.com",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "real purchase cycles"
+      },
+      "headlinePositioning": "B2B search agency structured around purchase-cycle visibility.",
+      "topSellingPoints": ["industry specialization", "content authority", "leads/revenue", "conversion optimization"],
+      "proofUsed": ["client logos", "reviews"],
+      "targetCustomerType": "B2B companies with multi-stakeholder sales cycles",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 3,
+        "proof_score": 3,
+        "OD_buyer_appeal": 2,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "target customer type",
+          "category": "industry specialization",
+          "claim": "DesignRush frames Effiqs SEO around B2B purchase cycles.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "B2B markets"
+        },
+        {
+          "field": "top selling points",
+          "category": "content authority",
+          "claim": "DesignRush says Effiqs prioritizes visibility across buying stages.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "visibility across those stages"
+        }
+      ]
+    },
+    {
+      "id": "first-page-australia",
+      "name": "First Page Australia",
+      "website": "https://firstpage.com.au",
+      "sourceRankingPage": {
+        "name": "DesignRush - Top SEO Agencies",
+        "url": "https://www.designrush.com/agency/search-engine-optimization",
+        "rank": "listed",
+        "snippet": "Highest Rated Digital Marketing Agency"
+      },
+      "headlinePositioning": "Digital marketing agency emphasizing visibility, lead generation, conversion rates, and reputation management.",
+      "topSellingPoints": ["leads/revenue", "conversion optimization", "reputation/reviews", "rankings"],
+      "proofUsed": ["client logos", "reviews"],
+      "targetCustomerType": "Australian businesses seeking full-funnel digital marketing",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "leads/revenue",
+          "claim": "DesignRush says First Page helps generate leads and improve conversion rates.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "generate leads and improve conversion rates"
+        },
+        {
+          "field": "top selling points",
+          "category": "reputation/reviews",
+          "claim": "DesignRush lists reputation management as a First Page service.",
+          "sourceName": "DesignRush - Top SEO Agencies",
+          "sourceUrl": "https://www.designrush.com/agency/search-engine-optimization",
+          "sourceSnippet": "Reputation Management"
+        }
+      ]
+    },
+    {
+      "id": "outerbox",
+      "name": "OuterBox",
+      "website": "https://www.outerboxdesign.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 1,
+        "snippet": "SEO, Pay Per Click, Conversion Optimization"
+      },
+      "headlinePositioning": "Ecommerce-oriented SEO firm with PPC, CRO, and web design capabilities.",
+      "topSellingPoints": ["conversion optimization", "technical SEO", "leads/revenue", "rankings"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Ecommerce and growth businesses",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 2,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "conversion optimization",
+          "claim": "The Manifest lists CRO among OuterBox services.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Conversion Optimization"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists client examples for OuterBox.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Jegs, Atlas Oil"
+        }
+      ]
+    },
+    {
+      "id": "victorious",
+      "name": "Victorious",
+      "website": "https://victorious.com/services/seo/",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 2,
+        "snippet": "Search Engine Optimization"
+      },
+      "headlinePositioning": "SEO-focused agency centered on organic search, content, and website work.",
+      "topSellingPoints": ["rankings", "content authority", "technical SEO", "reputation/reviews"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Companies buying specialized SEO rather than full-service digital marketing",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "The Manifest identifies Victorious as an SEO company.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "SEO company Victorious"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "The Manifest shows a large review count for Victorious.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "97 Reviews"
+        }
+      ]
+    },
+    {
+      "id": "ignite-visibility",
+      "name": "Ignite Visibility",
+      "website": "https://ignitevisibility.com",
+      "sourceRankingPage": {
+        "name": "Clutch - Top SEO Companies & Services",
+        "url": "https://clutch.co/seo-firms",
+        "rank": "listed",
+        "snippet": "SEO, CRO, and digital PR"
+      },
+      "headlinePositioning": "Full-service digital agency emphasizing organic visibility, rankings, CRO, and PR.",
+      "topSellingPoints": ["rankings", "conversion optimization", "content authority", "industry specialization"],
+      "proofUsed": ["reviews", "case studies", "metrics"],
+      "targetCustomerType": "Companies seeking integrated SEO, PPC, social, PR, and conversion support",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "conversion optimization",
+          "claim": "Clutch describes Ignite Visibility as specializing in SEO, CRO, and digital PR.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "SEO, CRO, and digital PR"
+        },
+        {
+          "field": "top selling points",
+          "category": "rankings",
+          "claim": "Clutch says clients cite improved ranking and online visibility.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "website ranking and online visibility"
+        }
+      ]
+    },
+    {
+      "id": "search-engine-people",
+      "name": "Search Engine People",
+      "website": "https://www.searchenginepeople.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 4,
+        "snippet": "Search Engine Optimization, Pay Per Click"
+      },
+      "headlinePositioning": "Digital marketing agency pairing SEO with PPC, strategy, and conversion optimization.",
+      "topSellingPoints": ["rankings", "conversion optimization", "reporting/transparency", "leads/revenue"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Canadian and North American brands needing search plus paid media",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "conversion optimization",
+          "claim": "The Manifest lists conversion optimization among Search Engine People's services.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Conversion Optimization"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists RE/MAX among client examples.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "RE/MAX"
+        }
+      ]
+    },
+    {
+      "id": "rankings-io",
+      "name": "Rankings.io",
+      "website": "https://rankings.io",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 5,
+        "snippet": "Search Engine Optimization and Pay Per Click"
+      },
+      "headlinePositioning": "SEO agency with strong legal-market proof and growth services around rankings and PPC.",
+      "topSellingPoints": ["industry specialization", "rankings", "leads/revenue", "content authority"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Law firms and competitive professional services",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "target customer type",
+          "category": "industry specialization",
+          "claim": "The Manifest client examples indicate legal vertical specialization.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Sibley Dolman Gipe"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "The Manifest shows a high review score for Rankings.io.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "4.9"
+        }
+      ]
+    },
+    {
+      "id": "dnovo-group",
+      "name": "dNOVO Group",
+      "website": "https://dnovogroup.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 6,
+        "snippet": "Search Engine Optimization, Web Design"
+      },
+      "headlinePositioning": "SEO and web design agency with professional-services proof signals.",
+      "topSellingPoints": ["industry specialization", "Google Maps/local pack", "technical SEO", "reporting/transparency"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Legal, healthcare, and professional service firms",
+      "localSeoEmphasis": "high",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "target customer type",
+          "category": "industry specialization",
+          "claim": "The Manifest client examples include professional-service law clients.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Matthew Jeffery Immigration Lawyer"
+        },
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "The Manifest lists web design alongside SEO for dNOVO.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Web Design"
+        }
+      ]
+    },
+    {
+      "id": "elit-web",
+      "name": "Elit-Web",
+      "website": "https://elit-web.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 7,
+        "snippet": "SEO, Pay Per Click, and Social Media Marketing"
+      },
+      "headlinePositioning": "SEO and paid media agency with broad international client proof.",
+      "topSellingPoints": ["rankings", "leads/revenue", "content authority", "reporting/transparency"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "International SMB and mid-market companies",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists recognizable client examples for Elit-Web.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "IKEA, PZU, Freedom24"
+        },
+        {
+          "field": "top selling points",
+          "category": "rankings",
+          "claim": "The Manifest describes Elit-Web as focusing on SEO and paid search.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Search Engine Optimization, Pay Per Click"
+        }
+      ]
+    },
+    {
+      "id": "breakline",
+      "name": "Breakline",
+      "website": "https://breaklineagency.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 8,
+        "snippet": "focuses on Search Engine Optimization"
+      },
+      "headlinePositioning": "SEO specialist agency with client proof in consumer, dental, and service sectors.",
+      "topSellingPoints": ["rankings", "industry specialization", "content authority", "technical SEO"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "SMBs and professional services that want a specialist SEO provider",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 3,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "The Manifest describes Breakline as focused on SEO.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "focuses on Search Engine Optimization"
+        },
+        {
+          "field": "target customer type",
+          "category": "industry specialization",
+          "claim": "The Manifest lists a dental client example for Breakline.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Mayfield Dental"
+        }
+      ]
+    },
+    {
+      "id": "bird-marketing",
+      "name": "Bird Marketing",
+      "website": "https://bird.co.uk",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 14,
+        "snippet": "SEO company"
+      },
+      "headlinePositioning": "SEO company with strong review ratings and enterprise client proof.",
+      "topSellingPoints": ["rankings", "technical SEO", "reputation/reviews", "industry specialization"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "UK and international brands needing SEO execution",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "The Manifest identifies Bird Marketing as an SEO company.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "SEO company"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists major client examples for Bird Marketing.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Huawei, SuperMicro"
+        }
+      ]
+    },
+    {
+      "id": "seo-brand",
+      "name": "SEO Brand",
+      "website": "https://www.seobrand.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 15,
+        "snippet": "Search Engine Optimization, Pay Per Click"
+      },
+      "headlinePositioning": "Midsize SEO agency combining SEO, PPC, social, web design, and broader marketing.",
+      "topSellingPoints": ["rankings", "technical SEO", "content authority", "industry specialization"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Organizations seeking a larger mixed-channel SEO provider",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists a public-sector client example for SEO Brand.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "US Department of State"
+        },
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "The Manifest lists web design alongside SEO for SEO Brand.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Web Design"
+        }
+      ]
+    },
+    {
+      "id": "marketing-link",
+      "name": "Marketing Link",
+      "website": "https://marketing.link",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 16,
+        "snippet": "specializes in Search Engine Optimization"
+      },
+      "headlinePositioning": "Small SEO and PPC firm focused on search execution.",
+      "topSellingPoints": ["rankings", "leads/revenue", "reporting/transparency"],
+      "proofUsed": ["reviews"],
+      "targetCustomerType": "Small and mid-sized companies needing SEO and PPC",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 3,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 2
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "The Manifest says Marketing Link specializes in SEO and PPC.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Search Engine Optimization and Pay Per Click"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "The Manifest shows review proof for Marketing Link.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "39 Reviews"
+        }
+      ]
+    },
+    {
+      "id": "editorial-link",
+      "name": "Editorial.Link",
+      "website": "https://editorial.link",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 17,
+        "snippet": "Search Engine Optimization and Content Marketing"
+      },
+      "headlinePositioning": "SEO and content marketing firm with link-authority positioning.",
+      "topSellingPoints": ["backlinks", "content authority", "rankings", "reputation/reviews"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "SaaS, technology, and B2B companies needing authority growth",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 2,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "content authority",
+          "claim": "The Manifest lists content marketing alongside SEO for Editorial.Link.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Content Marketing"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists SaaS-style client examples for Editorial.Link.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Capital.com, Pandadoc.com"
+        }
+      ]
+    },
+    {
+      "id": "inweb-performance-agency",
+      "name": "Inweb Performance Agency",
+      "website": "https://inweb.ua/en",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 18,
+        "snippet": "Search Engine Optimization, Pay Per Click"
+      },
+      "headlinePositioning": "Performance agency using SEO, PPC, and social to support visibility.",
+      "topSellingPoints": ["rankings", "leads/revenue", "reporting/transparency", "industry specialization"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Brands seeking performance marketing across search and social",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "leads/revenue",
+          "claim": "The Manifest lists Inweb as SEO, PPC, and social media marketing provider.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Pay Per Click, and Social Media Marketing"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists automotive and retail client examples.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "KIA Motors"
+        }
+      ]
+    },
+    {
+      "id": "seo-experts-company-india",
+      "name": "SEO Experts Company India",
+      "website": "https://www.seoexpertscompanyindia.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 19,
+        "snippet": "full-service Internet Marketing Company"
+      },
+      "headlinePositioning": "Small full-service internet marketing company with SEO, web design, and content marketing.",
+      "topSellingPoints": ["rankings", "technical SEO", "content authority", "reputation/reviews"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Budget-sensitive SMBs seeking full-service SEO support",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 3,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 2
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "technical SEO",
+          "claim": "The Manifest describes SEO Experts India as a full-service internet marketing company.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "full-service Internet Marketing Company"
+        },
+        {
+          "field": "top selling points",
+          "category": "content authority",
+          "claim": "The Manifest says the team specializes in SEO, web design, and content marketing.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "SEO, web design, and content marketing"
+        }
+      ]
+    },
+    {
+      "id": "big-leap",
+      "name": "Big Leap",
+      "website": "https://www.bigleap.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 20,
+        "snippet": "focuses on Search Engine Optimization"
+      },
+      "headlinePositioning": "Midsize SEO services firm with PPC support and recognizable client proof.",
+      "topSellingPoints": ["rankings", "content authority", "leads/revenue", "industry specialization"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Mid-market companies needing SEO and PPC",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "The Manifest says Big Leap focuses on SEO and PPC.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Search Engine Optimization and Pay Per Click"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists Avis Budget Car Rental as a client example.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Avis Budget Car Rental"
+        }
+      ]
+    },
+    {
+      "id": "straight-north",
+      "name": "Straight North",
+      "website": "https://www.straightnorth.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 21,
+        "snippet": "Search Engine Optimization, Pay Per Click"
+      },
+      "headlinePositioning": "Large SEO, PPC, and web design agency using lead-oriented search marketing.",
+      "topSellingPoints": ["leads/revenue", "rankings", "technical SEO", "reporting/transparency"],
+      "proofUsed": ["reviews", "client logos", "case studies"],
+      "targetCustomerType": "B2B and service businesses needing lead generation",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 4,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "leads/revenue",
+          "claim": "The Manifest lists Straight North services across SEO, PPC, and web design.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Web Design"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists KEYENCE as a client example.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "KEYENCE"
+        }
+      ]
+    },
+    {
+      "id": "netrocket",
+      "name": "Netrocket",
+      "website": "https://netrocket.pro",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 22,
+        "snippet": "Search Engine Optimization, Advertising"
+      },
+      "headlinePositioning": "SEO and advertising agency with healthcare/optics-adjacent client examples.",
+      "topSellingPoints": ["rankings", "industry specialization", "leads/revenue", "reporting/transparency"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "International SMBs, ecommerce, and service businesses",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 5,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest client examples include HoneyOptics.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "HoneyOptics"
+        },
+        {
+          "field": "headline positioning",
+          "category": "leads/revenue",
+          "claim": "The Manifest lists SEO with advertising and marketing strategy for Netrocket.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Advertising, Marketing Strategy"
+        }
+      ]
+    },
+    {
+      "id": "netpeak",
+      "name": "Netpeak",
+      "website": "https://netpeak.net",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 23,
+        "snippet": "Digital Strategy"
+      },
+      "headlinePositioning": "Large performance marketing agency with SEO, PPC, digital strategy, and social media.",
+      "topSellingPoints": ["rankings", "leads/revenue", "reporting/transparency", "industry specialization"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Multi-channel brands and ecommerce companies",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "reporting/transparency",
+          "claim": "The Manifest lists digital strategy alongside SEO for Netpeak.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Digital Strategy"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists Domino's as a client example.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Domino's"
+        }
+      ]
+    },
+    {
+      "id": "coalition-technologies",
+      "name": "Coalition Technologies",
+      "website": "https://coalitiontechnologies.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 24,
+        "snippet": "Search Engine Optimization, Pay Per Click"
+      },
+      "headlinePositioning": "Large SEO and web agency with major client-logo proof.",
+      "topSellingPoints": ["technical SEO", "rankings", "conversion optimization", "industry specialization"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Ecommerce and established businesses needing SEO plus web development",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 5,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "The Manifest lists web design and development alongside SEO for Coalition.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Web Design, Web Development"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists PayPal among client examples for Coalition.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "PayPal"
+        }
+      ]
+    },
+    {
+      "id": "panem-agency",
+      "name": "Panem Agency",
+      "website": "https://panem.agency",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 25,
+        "snippet": "focuses on Search Engine Optimization"
+      },
+      "headlinePositioning": "Small SEO and PPC agency for focused search acquisition.",
+      "topSellingPoints": ["rankings", "leads/revenue", "reporting/transparency"],
+      "proofUsed": ["reviews"],
+      "targetCustomerType": "SMBs and startups seeking search acquisition",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 3,
+        "proof_score": 3,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 2
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "The Manifest identifies Panem as focused on SEO and PPC.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Search Engine Optimization and Pay Per Click"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "The Manifest shows review proof for Panem Agency.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "27 Reviews"
+        }
+      ]
+    },
+    {
+      "id": "nextleft",
+      "name": "NextLeft",
+      "website": "https://nextleft.com",
+      "sourceRankingPage": {
+        "name": "Clutch - Top SEO Companies & Services",
+        "url": "https://clutch.co/seo-firms",
+        "rank": "listed",
+        "snippet": "80% Search Engine Optimization"
+      },
+      "headlinePositioning": "SEO-heavy agency emphasizing technical expertise, strategic approach, and measurable traffic growth.",
+      "topSellingPoints": ["technical SEO", "rankings", "content authority", "leads/revenue"],
+      "proofUsed": ["reviews", "metrics", "case studies"],
+      "targetCustomerType": "Companies with websites needing SEO migration, content, and performance rebuilds",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "Clutch highlights technical expertise in NextLeft reviews.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "technical expertise"
+        },
+        {
+          "field": "proof used",
+          "category": "leads/revenue",
+          "claim": "Clutch mentions a measurable visit increase in recent NextLeft feedback.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "54% increase in visits"
+        }
+      ]
+    },
+    {
+      "id": "zupo",
+      "name": "Zupo",
+      "website": "https://zupo.co",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 27,
+        "snippet": "small SEO agency"
+      },
+      "headlinePositioning": "Small specialist SEO agency with focused execution.",
+      "topSellingPoints": ["rankings", "content authority", "reporting/transparency"],
+      "proofUsed": ["reviews"],
+      "targetCustomerType": "Small businesses and niche brands wanting specialist SEO help",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 3,
+        "proof_score": 3,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "rankings",
+          "claim": "The Manifest identifies Zupo as a small SEO agency.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "small SEO agency"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "The Manifest shows high recommendation ratings for Zupo.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Would Recommend 5.0"
+        }
+      ]
+    },
+    {
+      "id": "sixgun",
+      "name": "SIXGUN",
+      "website": "https://sixgun.com.au",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 29,
+        "snippet": "Search Engine Optimization, Pay Per Click"
+      },
+      "headlinePositioning": "Australian SEO firm combining SEO, PPC, and social media marketing.",
+      "topSellingPoints": ["rankings", "leads/revenue", "reputation/reviews", "industry specialization"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Australian and New Zealand businesses seeking search performance",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "leads/revenue",
+          "claim": "The Manifest lists SEO, PPC, and social for SIXGUN.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Pay Per Click, and Social Media Marketing"
+        },
+        {
+          "field": "proof used",
+          "category": "industry specialization",
+          "claim": "The Manifest lists local institutional client examples for SIXGUN.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Peter MacCallum Cancer Centre"
+        }
+      ]
+    },
+    {
+      "id": "digital-authority-partners",
+      "name": "Digital Authority Partners",
+      "website": "https://www.digitalauthority.me",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 30,
+        "snippet": "Marketing Strategy, and Pay Per Click"
+      },
+      "headlinePositioning": "Chicago search and strategy firm with healthcare-adjacent proof.",
+      "topSellingPoints": ["industry specialization", "leads/revenue", "content authority", "technical SEO"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Healthcare, technology, and growth companies needing strategy plus execution",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 5,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "target customer type",
+          "category": "industry specialization",
+          "claim": "The Manifest lists Omron Healthcare as a client example.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Omron Healthcare"
+        },
+        {
+          "field": "top selling points",
+          "category": "leads/revenue",
+          "claim": "The Manifest lists strategy and PPC alongside SEO.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Marketing Strategy, and Pay Per Click"
+        }
+      ]
+    },
+    {
+      "id": "devenup-seo",
+      "name": "Devenup SEO",
+      "website": "https://devenup.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 31,
+        "snippet": "Generative AI"
+      },
+      "headlinePositioning": "Small SEO firm with PPC and generative AI service positioning.",
+      "topSellingPoints": ["AI search/GEO/AEO", "rankings", "technical SEO", "reporting/transparency"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Companies testing SEO plus AI-related search workflows",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "high",
+      "scores": {
+        "frequency_score": 3,
+        "proof_score": 3,
+        "OD_buyer_appeal": 2,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "AI/GEO/AEO emphasis",
+          "category": "AI search/GEO/AEO",
+          "claim": "The Manifest lists Generative AI among Devenup SEO services.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Generative AI"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "The Manifest shows high service excellence ratings for Devenup.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Service Excellence 5.0"
+        }
+      ]
+    },
+    {
+      "id": "webfx",
+      "name": "WebFX",
+      "website": "https://www.webfx.com",
+      "sourceRankingPage": {
+        "name": "Clutch - Top SEO Companies & Services",
+        "url": "https://clutch.co/seo-firms",
+        "rank": "listed",
+        "snippet": "450 reviews"
+      },
+      "headlinePositioning": "Large digital marketing agency selling SEO as part of broad revenue-driving marketing technology.",
+      "topSellingPoints": ["leads/revenue", "rankings", "content authority", "reporting/transparency"],
+      "proofUsed": ["reviews", "metrics", "client logos"],
+      "targetCustomerType": "Mid-market and enterprise companies across many industries",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "medium",
+      "scores": {
+        "frequency_score": 5,
+        "proof_score": 5,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "Clutch shows very large review volume for WebFX.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "450 reviews"
+        },
+        {
+          "field": "AI/GEO/AEO emphasis",
+          "category": "AI search/GEO/AEO",
+          "claim": "Clutch lists AI consulting among WebFX services.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "5% AI Consulting"
+        }
+      ]
+    },
+    {
+      "id": "sure-oak",
+      "name": "Sure Oak",
+      "website": "https://sureoak.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 10,
+        "snippet": "Generative AI and Public Relations"
+      },
+      "headlinePositioning": "SEO agency combining search, link authority, PR, and generative AI services.",
+      "topSellingPoints": ["backlinks", "AI search/GEO/AEO", "content authority", "rankings"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Brands seeking authority growth and PR-supported SEO",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "high",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 2,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "AI/GEO/AEO emphasis",
+          "category": "AI search/GEO/AEO",
+          "claim": "The Manifest lists Generative AI among Sure Oak services.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Generative AI"
+        },
+        {
+          "field": "top selling points",
+          "category": "backlinks",
+          "claim": "The Manifest lists public relations alongside SEO and AI services.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Public Relations"
+        }
+      ]
+    },
+    {
+      "id": "glide",
+      "name": "GLIDE",
+      "website": "https://www.glidedesign.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 11,
+        "snippet": "Web Design, UX/UI Design, and AI Consulting"
+      },
+      "headlinePositioning": "Web design agency that includes SEO, UX, and AI consulting in a broader website growth offer.",
+      "topSellingPoints": ["technical SEO", "conversion optimization", "AI search/GEO/AEO", "content authority"],
+      "proofUsed": ["reviews", "client logos"],
+      "targetCustomerType": "Brands needing website redesign plus SEO and UX improvements",
+      "localSeoEmphasis": "low",
+      "aiGeoAeoEmphasis": "medium",
+      "scores": {
+        "frequency_score": 3,
+        "proof_score": 4,
+        "OD_buyer_appeal": 3,
+        "Slipstream_fit": 3,
+        "differentiation_from_cheap_SEO": 4
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "technical SEO",
+          "claim": "The Manifest lists SEO, web design, UX, and AI consulting for GLIDE.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "UX/UI Design, and AI Consulting"
+        },
+        {
+          "field": "top selling points",
+          "category": "conversion optimization",
+          "claim": "The Manifest service mix implies website experience and conversion support.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Web Design"
+        }
+      ]
+    },
+    {
+      "id": "momentic",
+      "name": "Momentic",
+      "website": "https://momenticmarketing.com",
+      "sourceRankingPage": {
+        "name": "Clutch - Top SEO Companies & Services",
+        "url": "https://clutch.co/seo-firms",
+        "rank": "listed",
+        "snippet": "Generative AI"
+      },
+      "headlinePositioning": "SEO agency selling technical expertise, tailored strategies, and modern AI-adjacent services.",
+      "topSellingPoints": ["technical SEO", "AI search/GEO/AEO", "rankings", "reporting/transparency"],
+      "proofUsed": ["reviews", "case studies"],
+      "targetCustomerType": "Local and mid-market companies needing deeper technical SEO",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "high",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 4,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 5
+      },
+      "claims": [
+        {
+          "field": "top selling points",
+          "category": "technical SEO",
+          "claim": "Clutch review summaries emphasize Momentic technical expertise.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "technical expertise"
+        },
+        {
+          "field": "AI/GEO/AEO emphasis",
+          "category": "AI search/GEO/AEO",
+          "claim": "Clutch lists generative AI among Momentic service areas.",
+          "sourceName": "Clutch - Top SEO Companies & Services",
+          "sourceUrl": "https://clutch.co/seo-firms",
+          "sourceSnippet": "Generative AI"
+        }
+      ]
+    },
+    {
+      "id": "actuate-media",
+      "name": "Actuate Media",
+      "website": "https://actuatemedia.com",
+      "sourceRankingPage": {
+        "name": "The Manifest - Best SEO Companies",
+        "url": "https://themanifest.com/seo/agencies",
+        "rank": 12,
+        "snippet": "Search Engine Optimization, Google Adwords"
+      },
+      "headlinePositioning": "Performance agency combining SEO, Google Ads, and content marketing.",
+      "topSellingPoints": ["leads/revenue", "rankings", "content authority", "reporting/transparency"],
+      "proofUsed": ["reviews"],
+      "targetCustomerType": "Businesses seeking paid and organic search management",
+      "localSeoEmphasis": "medium",
+      "aiGeoAeoEmphasis": "low",
+      "scores": {
+        "frequency_score": 4,
+        "proof_score": 3,
+        "OD_buyer_appeal": 4,
+        "Slipstream_fit": 4,
+        "differentiation_from_cheap_SEO": 3
+      },
+      "claims": [
+        {
+          "field": "headline positioning",
+          "category": "leads/revenue",
+          "claim": "The Manifest lists SEO, Google Adwords, and content marketing for Actuate Media.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "Google Adwords, Content Marketing"
+        },
+        {
+          "field": "proof used",
+          "category": "reputation/reviews",
+          "claim": "The Manifest shows a high review rating for Actuate Media.",
+          "sourceName": "The Manifest - Best SEO Companies",
+          "sourceUrl": "https://themanifest.com/seo/agencies",
+          "sourceSnippet": "5.0"
+        }
+      ]
+    }
+  ],
+  "homepageMessaging": [
+    {
+      "id": "territory-protection",
+      "title": "Own a defensible local visibility territory",
+      "body": "Slipstream should lead with optometry-specific market protection, not generic rankings. The promise: see which nearby competitors matter, protect a radius, and assign authority assets around local search demand.",
+      "mappedCategories": ["Google Maps/local pack", "industry specialization", "reporting/transparency"]
+    },
+    {
+      "id": "authority-assets",
+      "title": "Build search authority around the questions patients actually ask",
+      "body": "Most agencies sell content volume. Slipstream should sell a mapped authority system: topics, question hubs, and local assignment rules for a single practice market.",
+      "mappedCategories": ["content authority", "industry specialization", "rankings"]
+    },
+    {
+      "id": "proof-over-hype",
+      "title": "Show the local evidence before asking for the retainer",
+      "body": "The strongest agency pages use proof. Slipstream should make proof operational: competitor counts, protected radius, review zone, source diagnostics, and assignment status.",
+      "mappedCategories": ["reporting/transparency", "reputation/reviews", "leads/revenue"]
+    }
+  ],
+  "salesCallBullets": [
+    {
+      "id": "not-control-google",
+      "title": "We do not claim to control Google.",
+      "body": "We identify the local competitors, topics, and authority assets that shape visibility in your territory, then show where protection is open, reviewable, or conflicted.",
+      "mappedCategories": ["reporting/transparency", "Google Maps/local pack"]
+    },
+    {
+      "id": "exclusive-market-access",
+      "title": "We sell exclusivity around a market, not a generic SEO package.",
+      "body": "A practice gets assigned authority assets and local visibility infrastructure for a defined territory. Nearby conflicts are flagged before work is sold.",
+      "mappedCategories": ["industry specialization", "Google Maps/local pack", "content authority"]
+    },
+    {
+      "id": "buyer-friendly-proof",
+      "title": "Your report shows the exact competitors affected.",
+      "body": "The prospect report should name the practices inside the protected radius and the review zone, so the buyer sees the market before they hear a pitch.",
+      "mappedCategories": ["reporting/transparency", "reputation/reviews", "leads/revenue"]
+    },
+    {
+      "id": "optometry-specific",
+      "title": "Optometry has its own search universe.",
+      "body": "Slipstream maps eye exams, VSP, contact lenses, progressive lenses, and OD-vs-OMD authority separately instead of selling one-size-fits-all blog content.",
+      "mappedCategories": ["industry specialization", "content authority"]
+    }
+  ],
+  "avoidGenericClaims": [
+    {
+      "id": "rank-number-one",
+      "title": "We will rank you number one",
+      "body": "Too common, risky, and undifferentiated. Replace with protected territory, competitor visibility, and measurable authority assignments.",
+      "mappedCategories": ["rankings"]
+    },
+    {
+      "id": "more-traffic",
+      "title": "Get more traffic",
+      "body": "Generic traffic does not speak to an OD buyer. Replace with local patient-intent visibility by service line and territory.",
+      "mappedCategories": ["leads/revenue"]
+    },
+    {
+      "id": "full-service-seo",
+      "title": "Full-service SEO agency",
+      "body": "The market is crowded with this language. Slipstream should sound like infrastructure and allocation, not another retainer menu.",
+      "mappedCategories": ["technical SEO", "content authority"]
+    },
+    {
+      "id": "ai-search-domination",
+      "title": "AI search domination",
+      "body": "The category is emerging and noisy. Use modern search readiness only when tied to structured question coverage and source-backed authority.",
+      "mappedCategories": ["AI search/GEO/AEO"]
+    }
+  ]
+}
