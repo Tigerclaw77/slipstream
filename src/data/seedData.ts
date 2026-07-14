@@ -1,4 +1,4 @@
-import type { Assignment, AuthorityAsset, Practice, Territory, TopicCluster } from "../types";
+import type { Assignment, AuthorityAsset, Practice, Territory, TopicCluster } from "../types.js";
 
 export const practices: Practice[] = [
   {

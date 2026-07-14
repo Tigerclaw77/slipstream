@@ -1,4 +1,4 @@
-import type { Practice, TerritoryAvailability } from "../types";
+import type { Practice, TerritoryAvailability } from "../types.js";
 
 export const PRESET_RADII_MILES = [0.5, 1, 2, 3, 5, 10] as const;
 
